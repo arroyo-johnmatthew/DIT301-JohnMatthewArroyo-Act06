@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APIConnectApp</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="weather_info_will_appear_here">Weather info will appear here</string>
+    <string name="error_prefix">Error: %s</string>
+    <string name="network_error_prefix">Network error: %s</string>
+    <string name="invalid_response">City not found or invalid response.</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_description">No description</string>
+</resources>
